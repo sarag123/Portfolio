@@ -286,6 +286,17 @@ margin:40px
    .fa-solid:hover{
     color:#FEA6FD
    }
+   .connect{
+    color: #ffffff;
+    font-size: 45px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 30px;
+    margin-top: 45px;
+    margin-bottom: 45px;
+   }
+   .connect:hover{
+    color: #FEA6FD;
+   }
 
 @media only screen and (max-width: 600px) {
     .landingPage {
